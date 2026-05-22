@@ -1,0 +1,25 @@
+[package]
+name = "citadel_core-ebpf"
+version = "0.1.0"
+edition.workspace = true
+
+[dependencies]
+aya-ebpf = { git = "https://github.com/aya-rs/aya" }
+aya-log-ebpf = { git = "https://github.com/aya-rs/aya" }
+citadel_core-common = { path = "../citadel_core-common" }
+network-types = "0.1.0"
+
+[build-dependencies]
+which = { workspace = true }
+
+[[bin]]
+name = "citadel_core"
+path = "src/main.rs"
+
+[profile.release]
+panic = "abort"
+lto = true
+opt-level = 3
+
+[profile.dev]
+panic = "abort"
