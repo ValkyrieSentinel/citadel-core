@@ -1,0 +1,11 @@
+/home/helga/citadel-core/target/debug/deps/cargo_metadata-e872c1303f9e0778.d: /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/lib.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/dependency.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/diagnostic.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/errors.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/messages.rs
+
+/home/helga/citadel-core/target/debug/deps/libcargo_metadata-e872c1303f9e0778.rlib: /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/lib.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/dependency.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/diagnostic.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/errors.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/messages.rs
+
+/home/helga/citadel-core/target/debug/deps/libcargo_metadata-e872c1303f9e0778.rmeta: /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/lib.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/dependency.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/diagnostic.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/errors.rs /home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/messages.rs
+
+/home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/lib.rs:
+/home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/dependency.rs:
+/home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/diagnostic.rs:
+/home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/errors.rs:
+/home/helga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.23.1/src/messages.rs:
